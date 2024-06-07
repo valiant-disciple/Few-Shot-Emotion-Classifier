@@ -3,7 +3,7 @@ We try to accurately predict the emotion in the input sentence, with a small dat
 
 ## Here is the main solution :
 - Flan T5 from HuggingFace is our language model.
-- We implement LORA to reduce training time significantly.
+- Implemented LORA to reduce training time significantly.
 - Various data generation techniques like Backtranslation and Adversarial methods to augment the dataset.
 
 ## I also tried :
