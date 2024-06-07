@@ -10,5 +10,4 @@ We try to accurately predict the emotion in the input sentence, with a small dat
 - GPT-2 and BERT as models, which didn't do great as they are just slightly more complex than Encoders with attention.
 - LLM based data-generation, which was too expensive with GPT-3.5
 
-
-
+## Achieved score of 0.78 private leaderboard! Verify by running submissions.csv at https://www.kaggle.com/competitions/emonlp-interiit-techsoc-aiclub
